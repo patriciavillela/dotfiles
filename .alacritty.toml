@@ -1,0 +1,21 @@
+[shell]
+program="/usr/bin/tmux"
+
+#[window]
+#decorations="None"
+
+[font]
+size=16.0
+
+[font.normal]
+family="JetBrainsMonoNerdFont"
+style="Normal"
+
+[font.bold]
+style="Bold"
+
+[font.italic]
+style="Italic"
+
+[font.bold_italic]
+style="Bold Italic"
